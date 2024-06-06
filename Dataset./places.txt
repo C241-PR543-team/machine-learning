@@ -1,0 +1,437 @@
+Monumen Nasional: Budaya, Keluarga
+Kota Tua: Budaya
+Dunia Fantasi: Hiburan, Keluarga
+Taman Mini Indonesia Indah (TMII): Budaya, Hiburan
+Atlantis Water Adventure: Petualangan, Hiburan
+Taman Impian Jaya Ancol: Hiburan, Keluarga
+Kebun Binatang Ragunan: Keluarga, Alam
+Ocean Ecopark: Petualangan, Alam
+Pelabuhan Marina: Hiburan, Alam
+Pulau Tidung: Alam, Petualangan
+Pulau Bidadari: Alam, Romantis
+Pulau Pari: Alam, Petualangan
+Pulau Pramuka: Alam, Petualangan
+Pulau Pelangi: Alam, Romantis
+Pasar Seni: Budaya, Hiburan
+Jembatan Kota Intan: Budaya
+Museum Fatahillah: Budaya
+Museum Bank Indonesia: Budaya
+Kidzania: Hiburan, Keluarga
+Museum Taman Prasasti: Budaya
+Museum Wayang: Budaya
+Masjid Istiqlal: Budaya
+Gereja Katedral: Budaya
+Museum Nasional: Budaya
+Pasar Tanah Abang: Budaya
+Pecinan Glodok: Budaya
+Sea World: Hiburan, Keluarga
+Wisata Agro Edukatif Istana Susu Cibugary: Hiburan, Keluarga
+Wisata Kuliner Pecenongan: Hiburan, Makanan
+Taman Menteng: Hiburan, Relaksasi
+Wisata Alam Mangrove Angke: Alam
+Setu Babakan: Budaya, Alam
+Taman Suropati: Hiburan, Relaksasi
+Pasar Taman Puring: Budaya
+Grand Indonesia Mall: Hiburan, Belanja
+Skyrink - Mall Taman Anggrek: Hiburan, Olahraga
+Bumi Perkemahan Cibubur: Petualangan, Keluarga
+Istana Negara Republik Indonesia: Budaya
+Museum Macan (Modern and Contemporary Art in Nusantara): Budaya
+Galeri Nasional Indonesia: Budaya
+Museum Bahari Jakarta: Budaya
+Museum Seni Rupa dan Kramik: Budaya
+The Escape Hunt: Hiburan, Petualangan
+Monumen Selamat Datang: Budaya
+Jakarta Aquarium dan Safari: Hiburan, Keluarga
+Pulau Semak Daun: Alam, Petualangan
+Taman Situ Lembang: Alam, Hiburan
+Taman Ismail Marzuki: Budaya, Hiburan
+Galeri Indonesia Kaya: Budaya
+Museum Joang 45: Budaya
+Jakarta Planetarium: Budaya
+Kampung Cina: Budaya
+Rumah Sipitung: Budaya
+Taman Agrowisata Cilangkap: Alam, Keluarga
+Klenteng Jin De Yuan: Budaya
+Pantai Ancol: Alam, Hiburan, Keluarga
+Taman Lapangan Banteng: Hiburan, Olahraga
+Taman Ayodya: Hiburan, Keluarga
+Museum Sumpah Pemuda: Budaya
+Museum Tekstil: Budaya
+Tugu Proklamasi: Budaya
+Taman Legenda Keong Emas: Hiburan, Keluarga
+Museum Kebangkitan Nasional: Budaya
+Museum Sasmita Loka Ahmad Yani: Budaya
+Museum Basoeki Abdullah: Budaya
+Museum Layang-layang: Budaya
+Margasatwa Muara Angke: Alam, Petualangan
+Pasar Petak Sembilan: Budaya
+Freedom Library: Budaya
+Perpustakaan Nasional: Budaya
+Cibubur Garden Diary (Cibugary): Hiburan, Keluarga
+Waterboom PIK (Pantai Indah Kapuk): Hiburan, Keluarga
+Museum Perangko: Budaya
+Museum Tengah Kebun: Budaya
+SnowBay Waterpark: Hiburan, Keluarga
+Taman Cattleya: Alam, Relaksasi
+Taman Hutan Tebet: Alam, Relaksasi
+Hutan Kota Srengseng: Alam, Relaksasi
+Taman Spathodea: Alam, Hiburan
+Plaza Indonesia: Hiburan, Belanja
+Mall Thamrin City: Hiburan, Belanja
+Museum Satria Mandala: Budaya
+Alive Museum Ancol: Hiburan, Keluarga
+Kawasan Kuliner BSM: Budaya, Hiburan
+Taman Pintar Yogyakarta: Budaya, Keluarga
+Keraton Yogyakarta: Budaya
+Sindu Kusuma Edupark (SKE): Hiburan, Keluarga
+Museum Benteng Vredeburg Yogyakarta: Budaya
+De Mata Museum Jogja: Hiburan, Budaya
+Kampung Wisata Taman Sari: Budaya
+Situs Warungboto: Budaya
+Nol Kilometer Jl.Malioboro: Budaya
+Gembira Loka Zoo: Hiburan, Keluarga
+Sumur Gumuling: Budaya, Relaksasi
+Desa Wisata Sungai Code Jogja Kota: Alam, Budaya
+Alun Alun Selatan Yogyakarta: Budaya
+Monumen Yogya Kembali: Budaya
+Taman Pelangi Yogyakarta: Hiburan, Keluarga
+Kampung Wisata Kadipaten: Budaya
+Taman Budaya Yogyakarta: Budaya
+Kampung Wisata Sosro Menduran: Budaya
+Monumen Batik Yogyakarta: Budaya
+Tugu Pal Putih Jogja: Budaya
+Tebing Breksi: Alam, Petualangan
+Candi Donotirto: Alam, Budaya
+Kawasan Malioboro: Budaya
+Bangsal Pagelaran: Budaya
+Embung Tambakboyo: Alam, Relaksasi
+Hutan Pinus Pengger: Alam, Relaksasi
+Monumen Serangan Umum 1 Maret: Budaya
+Puncak Pinus Becici: Alam, Relaksasi
+Bukit Bintang Yogyakarta: Alam, Petualangan
+Gedung Agung Yogyakarta: Budaya
+The Lost World Castle: Hiburan, Keluarga
+Monumen Sanapati: Budaya
+Jurang Tembelan Kanigoro: Alam, Petualangan
+The World Landmarks - Merapi Park Yogyakarta: Alam, Petualangan
+Museum Sonobudoyo Unit I: Budaya
+Lava Bantal: Alam, Petualangan
+Bukit Panguk Kediwung: Alam, Petualangan
+Candi Prambanan: Budaya
+Watu Goyang: Alam, Petualangan
+Kampung Wisata Rejowinangun: Budaya
+Kauman Pakualaman Yogyakarta: Budaya
+Alun-alun Utara Keraton Yogyakarta: Budaya
+Pantai Goa Cemara: Alam, Romantis
+Blue Lagoon Jogja: Alam, Romantis
+Gumuk Pasir Parangkusumo: Alam, Petualangan
+Bukit Lintang Sewu: Alam, Petualangan
+Studio Alam Gamplong: Alam, Hiburan
+Watu Lumbung: Alam, Petualangan
+Air Terjun Kedung Pedut: Alam, Petualangan
+Puncak Kebun Buah Mangunan: Alam, Relaksasi
+Desa Wisata Gamplong: Alam, Budaya
+Kawasan Wisata Sosrowijayan: Budaya
+Grojogan Watu Purbo Bangunrejo: Alam, Petualangan
+Wisata Alam Kalibiru: Alam, Petualangan
+Jogja Exotarium: Budaya
+Puncak Gunung Api Purba - Nglanggeran: Alam, Petualangan
+Bendung Lepen: Alam, Petualangan
+Bunker Kaliadem Merapi: Alam, Petualangan
+Ledok Sambi: Alam, Petualangan
+Seribu Batu Songgo Langit: Alam, Petualangan
+Goa Jomblang: Alam, Petualangan
+Desa Wisata Rumah Domes/Teletubbies: Alam, Keluarga
+Bukit Wisata Pulepayung: Alam, Relaksasi
+Bentara Budaya Yogyakarta (BBY): Budaya
+Goa Rancang Kencono: Alam, Petualangan
+Goa Cerme: Alam, Petualangan
+Wisata Kraton Jogja: Budaya
+Desa Wisata Kelor: Alam, Keluarga
+Pantai Patihan: Alam, Petualangan
+Pantai Kukup: Alam, Romantis
+Pantai Ngrawe (Mesra): Alam, Romantis
+Pantai Ngobaran: Alam, Romantis
+Pantai Pulang Sawal: Alam, Romantis
+Pantai Baron: Alam, Romantis
+Pantai Pok Tunggal: Alam, Romantis
+Hutan Pinus Asri: Alam, Relaksasi
+Pasar Kebon Empring Bintaran: Budaya
+Bukit Paralayang, Watugupit: Alam, Petualangan
+Kampung Wisata Dipowinatan: Budaya
+Watu Mabur Mangunan: Alam, Petualangan
+Pintoe Langit Dahromo: Alam, Petualangan
+Green Village Gedangsari: Alam, Relaksasi
+Kebun Teh Nglinggo: Alam, Relaksasi
+Geoforest Watu Payung Turunan: Alam, Petualangan
+Pantai Timang: Alam, Petualangan
+Puncak Segoro: Alam, Petualangan
+Candi Borobudur: Budaya, Relaksasi
+Candi Ijo: Budaya
+Pantai Indrayanti: Alam, Romantis
+Pantai Nglambor: Alam, Romantis
+Pasar Beringharjo: Budaya
+Museum Ullen Sentalu: Budaya
+Museum Gunung Merapi: Budaya
+Pantai Parangtritis: Alam, Romantis
+Goa Pindul: Alam, Petualangan
+Candi Ratu Boko: Budaya
+Pantai Depok Jogja: Alam, Romantis
+Pantai Sundak: Alam, Romantis
+Hutan Mangrove Kulon Progo: Alam, Relaksasi
+Jogja Bay Pirates Adventure Waterpark: Hiburan, Keluarga
+Pantai Sepanjang: Alam, Romantis
+Pantai Krakal: Alam, Romantis
+Pantai Glagah: Alam, Romantis
+Pantai Siung: Alam, Petualangan
+Pantai Sadranan: Alam, Romantis
+Pantai Nguluran: Alam, Romantis
+Pantai Samas: Alam, Romantis
+Pantai Drini: Alam, Romantis
+Air Terjun Sri Gethuk: Alam, Petualangan
+Candi Sewu: Budaya
+Pantai Wediombo: Alam, Romantis
+Pantai Jogan: Alam, Romantis
+Pantai Ngrenehan: Alam, Romantis
+Pantai Jungwok: Alam, Romantis
+Pantai Greweng: Alam, Romantis
+Pantai Sedahan: Alam, Romantis
+Pantai Watu Kodok: Alam, Romantis
+Pantai Kesirat: Alam, Romantis
+Pantai Ngandong: Alam, Romantis
+Galaxy Waterpark Jogja: Hiburan, Keluarga
+Desa Wisata Pulesari: Budaya
+Desa Wisata Tembi: Budaya
+Wisata Kaliurang: Alam, Petualangan
+Heha Sky View: Alam, Hiburan
+Taman Sungai Mudal: Alam, Relaksasi
+Pantai Sanglen: Alam, Romantis
+Pantai Congot: Alam, Romantis
+GunungTangkuban perahu: Alam, Petualangan
+Jalan Braga: Budaya
+Gedung Sate: Budaya
+Trans Studio Bandung: Hiburan, Keluarga
+Taman Hutan Raya Ir. H. Djuanda: Alam, Relaksasi
+Farm House Susu Lembang: Hiburan, Keluarga
+Kebun Binatang Bandung: Hiburan, Keluarga
+Kawah Putih: Alam, Petualangan
+Tebing Karaton: Alam, Petualangan
+Dusun Bambu: Alam, Relaksasi
+Museum Geologi Bandung: Budaya
+Museum Konferensi Asia Afrika: Budaya
+Masjid Raya Bandung: Budaya, Keluarga
+Dago Dreampark: Hiburan, Keluarga
+Orchid Forest Cikole: Alam, Relaksasi
+Kawasan Punclut: Alam, Romantis
+Alun-Alun Kota Bandung: Budaya
+Museum Sri Baduga: Budaya
+Rabbit Town: Hiburan, Keluarga
+Stone Garden Citatah: Alam, Petualangan
+The Great Asia Africa: Budaya
+Bukit Moko: Alam, Petualangan
+Gunung Papandayan: Alam, Petualangan
+Amazing Art World: Hiburan, Keluarga
+Gua Belanda: Alam, Petualangan
+Taman Balai Kota Bandung: Budaya
+Panghegar Waterboom Bandung: Hiburan, Keluarga
+Gunung Manglayang: Alam, Petualangan
+Lembang Park & Zoo: Hiburan, Keluarga
+Taman Lalu Lintas Ade Irma Suryani Nasution: Hiburan, Keluarga
+Lawangwangi Creative Space: Budaya
+Curug Dago: Alam, Petualangan
+Kampung Korea Bandung: Budaya
+Kampung Batu Malakasari: Budaya
+Jendela Alam: Alam, Relaksasi
+Curug Tilu Leuwi Opat: Alam, Petualangan
+Kiara Artha Park: Alam, Relaksasi
+NuArt Sculpture Park: Budaya
+Upside Down World Bandung: Hiburan, Keluarga
+Pesona Nirwana Waterpark & Cottages: Hiburan, Keluarga
+Taman Lansia: Relaksasi
+Kampoeng Tulip: Alam, Romantis
+Selasar Sunaryo Art Space: Budaya
+Teras Cikapundung BBWS: Alam, Relaksasi
+Museum Barli: Budaya
+Wisata Batu Kuda: Alam, Petualangan
+Monumen Bandung Lautan Api: Budaya
+Museum Gedung Sate: Budaya
+Monumen Perjuangan Rakyat Jawa Barat: Budaya
+Museum Pos Indonesia: Budaya
+Ciwangun Indah Camp Official: Alam, Relaksasi
+Wot Batu: Alam, Petualangan
+Curug Batu Templek: Alam, Petualangan
+Gereja Katedral Santo Petrus Bandung: Religius
+Museum Mandala Wangsit Siliwangi: Budaya
+Caringin Tilu: Alam, Petualangan
+Panama Park 825: Hiburan, Keluarga
+Sudut Pandang Bandung: Budaya
+Bumi Perkemahan Batu Kuda: Alam, Relaksasi
+Bukit Bintang: Alam, Petualangan
+Taman Vanda: Alam, Relaksasi
+Taman Budaya Jawa Barat: Budaya
+Curug Bugbrug: Alam, Petualangan
+Babakan Siliwangi City Forest Path Bandung: Alam, Relaksasi
+Curug Cipanas: Alam, Petualangan
+Taman Jomblo: Hiburan, Keluarga
+Peta Park: Alam, Relaksasi
+Masjid Daarut Tauhiid Bandung: Religius
+Masjid Agung Trans Studio Bandung: Religius
+Gereja Tiberias Indonesia Bandung: Religius
+Tektona Waterpark: Hiburan, Keluarga
+Curug Cilengkrang: Alam, Petualangan
+Jembatan Pasupati: Budaya
+Pasar Baru: Budaya
+Taman Sejarah Bandung: Budaya
+Roemah Seni Sarasvati: Budaya
+Puspa Iptek Sundial: Budaya
+Masjid Salman ITB: Religius
+Curug Aseupan: Alam, Petualangan
+Museum Pendidikan Nasional: Budaya
+Water Park Bandung Indah: Hiburan, Keluarga
+Curug Anom: Alam, Petualangan
+Taman Badak: Alam, Relaksasi
+Taman Film: Budaya
+Museum Nike Ardilla: Budaya
+Batununggal Indah Club: Olahraga, Hiburan, Keluarga
+Mountain View Golf Club: Olahraga
+Gunung Lalakon: Alam, Petualangan
+Sendang Geulis Kahuripan: Alam, Relaksasi
+Sanghyang Heuleut: Alam, Petualangan
+Lereng Anteng Panoramic Coffee Place: Alam, Relaksasi
+Masjid Pusdai: Religius
+Masjid Al-Imtizaj: Religius
+Situ Cileunca: Alam, Relaksasi
+Sunrise Point Cukul: Alam, Petualangan
+Sungai Palayangan: Alam, Petualangan
+Perkebunan Teh Malabar: Alam, Relaksasi
+Pemandian Air Panas Ciater: Alam, Relaksasi
+Observatorium Bosscha: Budaya
+Taman Bunga Cihideung: Alam, Relaksasi
+The Lodge Maribaya: Alam, Relaksasi
+Taman Hutan Raya Ir. H. Juanda: Alam, Relaksasi
+Taman Begonia: Alam, Relaksasi
+Tafso Barn: Alam, Relaksasi
+Curug Luhur Waterfall: Alam, Petualangan
+Curug Malela: Alam, Petualangan
+Curug Cimahi: Alam, Petualangan
+Situ Patenggang: Alam, Relaksasi
+Kawah Rengganis Cibuni: Alam, Petualangan
+Pemandian Air Panas Cimanggu: Alam, Relaksasi
+Glamping Lakeside Rancabali: Alam, Relaksasi
+Bukit Jamur: Alam, Relaksasi
+Kebun Tanaman Obat Sari Alam: Alam, Edukasi
+Happyfarm Ciwidey: Alam, Hiburan, Keluarga
+Saung Angklung Mang Udjo: Budaya
+Taman Kupu-Kupu Cihanjuang: Alam, Edukasi
+Taman Miniatur Kereta Api: Hiburan, Edukasi, Keluarga
+Gua Pawon: Alam, Petualangan
+Bukit Gantole Cililin: Alam, Relaksasi
+Bandros City Tour: Hiburan, Keluarga
+Kyotoku Floating Market: Hiburan, Keluarga
+Rainbow Garden: Alam, Relaksasi
+Kota Mini: Hiburan, Keluarga
+Chingu Cafe Little Seoul: Hiburan, Kuliner
+Candi Gedong Songo: Budaya, Sejarah
+Grand Maerakaca: Hiburan, Keluarga
+Kampung Pelangi: Budaya
+Lawang Sewu: Budaya, Sejarah
+Sam Poo Kong Temple: Budaya, Religius
+Desa Wisata Lembah Kalipancur: Alam, Relaksasi
+Hutan Wisata Tinjomoyo Semarang: Alam, Petualangan
+Taman Kasmaran: Alam, Relaksasi
+Pantai Baruna: Alam, Relaksasi
+Pantai Marina: Alam, Relaksasi
+Kampoeng Djadhoel Semarang: Budaya
+Indonesia Kaya Park: Budaya
+Taman Pandanaran: Budaya
+Pura Giri Natha: Religius
+Wisata Mangrove Tapak: Alam, Relaksasi
+Pantai Cipta: Alam, Relaksasi
+Old City 3D Trick Art Museum: Budaya, Hiburan
+GPIB Immanuel Semarang (Gereja Blenduk): Religius
+Taman Srigunting: Alam, Relaksasi
+Semarang Contemporary Art Gallery: Budaya
+Umbul Sidomukti: Alam, Petualangan
+Saloka Theme Park: Hiburan, Keluarga
+Wisata Alam Wana Wisata Penggaron: Alam, Petualangan
+Masjid Kapal Semarang: Religius
+Taman Bunga Celosia: Alam, Relaksasi
+Air Terjun Kali Pancur: Alam, Petualangan
+Wisata Kampung Krisan Clapar: Alam, Relaksasi
+Danau Rawa Pening: Alam, Relaksasi
+Pantai Maron: Alam, Relaksasi
+Water Blaster Bukit Candi Golf: Hiburan, Keluarga
+Waduk Jatibarang: Alam, Relaksasi
+Tirto Argo Siwarak: Alam, Relaksasi
+Wisata Lereng Kelir: Alam, Seni
+Kampoeng Rawa: Alam, Relaksasi
+Monumen Palagan Ambarawa: Sejarah, Budaya
+Benteng Pendem: Sejarah, Budaya
+Wisata Eling Bening: Alam, Relaksasi
+Gua Maria Kerep Ambarawa: Religius
+Museum Kereta Ambarawa: Budaya, Sejarah
+Hutan Pinus Kayon: Alam, Relaksasi
+Kota Lama Semarang: Sejarah, Budaya
+Semarang Chinatown: Budaya
+La Kana Chapel: Religius
+Jembatan Biru Ambarawa: Alam, Pemandangan
+Goa Rong: Alam, Petualangan
+Masjid Agung Ungaran: Religius
+Tugu Muda Semarang: Sejarah, Budaya
+Kampoeng Kopi Banaran: Kuliner, Edukasi
+Taman Tabanas: Alam, Relaksasi
+Kampung Tematik Jawi: Budaya
+Kampung Batik Gedong Semarang: Budaya
+Air Terjun Semirang: Alam, Petualangan
+Obyek Wisata Goa Kreo: Alam, Petualangan
+Watu Gunung Ungaran: Alam, Petualangan
+Brown Canyon: Alam, Pemandangan
+Durian Gardens and Tourism Education Watu Simbar: Alam, Edukasi
+Flower Farm Setiya Aji: Alam, Relaksasi
+Ekowisata Mangrove Wonorejo: Alam, Relaksasi
+Taman Harmoni Keputih: Alam, Relaksasi
+Air Mancur Menari: Alam, Hiburan
+Taman Prestasi: Hiburan, Keluarga
+Monumen Kapal Selam: Sejarah, Budaya
+Taman Kunang-Kunang: Alam, Hiburan
+Taman Buah Surabaya: Alam, Edukasi
+Taman Pelangi: Alam, Hiburan
+Hutan Bambu Keputih: Alam, Relaksasi
+Taman Keputran: Alam, Relaksasi
+Food Junction Grand Pakuwon: Kuliner, Hiburan
+Taman Barunawati: Alam, Relaksasi
+Kenjeran Park: Alam, Hiburan
+Surabaya North Quay: Alam, Pemandangan
+Kebun Bibit Wonorejo: Alam, Edukasi
+Taman Ekspresi Dan Perpustakaan: Hiburan, Edukasi
+Kebun Binatang Surabaya: Alam, Hiburan
+Rumah Batik: Budaya, Seni
+Ciputra Waterpark: Hiburan, Keluarga
+Masjid Muhammad Cheng Hoo: Religius, Budaya
+Masjid Nasional Al-Akbar: Religius, Budaya
+Museum TNI AL Loka Jala Crana: Sejarah, Budaya
+Jembatan Merah: Sejarah, Budaya
+Museum De Javasche Bank: Sejarah, Budaya
+Keraton Surabaya: Sejarah, Budaya
+Klenteng Sanggar Agung: Budaya, Religius
+Museum Sepuluh Nopember Kota Surabaya: Sejarah, Budaya
+Monumen Tugu Pahlawan: Sejarah, Budaya
+Surabaya Museum (Gedung Siola): Sejarah, Budaya
+Museum Kesehatan Dr. Adhyatma: Edukasi, Sejarah
+Monumen Jalesveva Jayamahe: Sejarah, Budaya
+Patung Sura dan Buaya: Sejarah, Budaya
+Pantai Ria Kenjeran: Alam, Hiburan
+Waterpark Kenjeran Surabaya: Hiburan, Keluarga
+Balai Kota Surabaya: Sejarah, Budaya
+Patung Buddha Empat Rupa: Religius, Budaya
+Monumen Bambu Runcing Surabaya: Sejarah, Budaya
+House of Sampoerna: Sejarah, Budaya
+Atlantis Land Surabaya: Hiburan, Keluarga
+Taman Hiburan Rakyat: Hiburan, Keluarga
+Taman Mundu: Alam, Relaksasi
+Museum Mpu Tantular: Sejarah, Budaya
+Taman Bungkul: Alam, Relaksasi
+Taman Air Mancur Menari Kenjeran: Alam, Hiburan
+Taman Flora Bratang Surabaya: Alam, Relaksasi
+Gereja Perawan Maria Tak Berdosa Surabaya: Religius
