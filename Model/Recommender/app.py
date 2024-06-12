@@ -7,7 +7,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load your DataFrame df2
-df2 = pd.read_csv("F:/model/script_deployment/data.csv")
+df2 = pd.read_csv("./Model/Recommender/data.csv")
 df2["Category"] = df2["Category"].str.replace("'", "")
 df2['Category'] = df2['Category'].str.strip('[]')
 df2.drop("Unnamed: 0", axis=1, inplace=True)
