@@ -6,7 +6,7 @@ import pandas as pd
 
 def recommendation(city, category_preferences, days):
     # Load DataFrame 
-    df = pd.read_csv("F:/model/script_deployment/data.csv")
+    df = pd.read_csv("./Model/Recommender/data.csv")
     df["Category"] = df["Category"].str.replace("'", "")
     df['Category'] = df['Category'].str.strip('[]')
     df.drop("Unnamed: 0", axis=1, inplace=True)
